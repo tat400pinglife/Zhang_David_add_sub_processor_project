@@ -2,10 +2,14 @@ Hello!
 
 Attached are the following files:
 - Word document of report
+- pdf document of report
 - PowerPoint file of presentation shown in video 
 - TWO video files, they are identical except one is a MP4 and the other is MKV (I didn't know what format you wanted)
 - Archived project file, (.QAR file)
 - Folder containing all VHD files
+
+I originally created the report in google docs and exporting it to a Word doc messed up the formatting, I have included
+the pdf version if wanted
 
 To run project, open archived project file and choose where to unpack all VHD files and compile as normal
 OR attached as well is a folder containing VHD files, make new project in Quartus and add files manually to project
